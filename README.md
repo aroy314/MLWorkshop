@@ -1,5 +1,5 @@
 # MLWorkshop
-Global Azure Bootcamp workshop about Machine Learning and Azure ML Studio, inspired from the [Microsoft Imagine Workshops](https://github.com/MSFTImagine/computerscience/tree/master/Workshop)
+Welcome to the Global Azure Bootcamp workshop about Machine Learning and Azure ML Studio, inspired from the [Microsoft Imagine Workshops](https://github.com/MSFTImagine/computerscience/tree/master/Workshop)
 
 ## Objectives
 In this hands-on lab, you will learn how to:
@@ -13,7 +13,7 @@ The workshop can be done with a UWP app (requires Visual Studio 2015 Community e
 You need for both a Microsoft Azure subscription. [Sign up for a free trial](http://aka.ms/WATK-FreeTrial)
 
 Browse the instructions online : 
-- [UWP] (http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_UWP.md)
+- [UWP](http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_UWP.md)
 - [Node](http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_Node.md)
 
 or open the corresponding .html files locally after cloning the repo in your browser

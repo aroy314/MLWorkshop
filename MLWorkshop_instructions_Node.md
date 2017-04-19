@@ -31,11 +31,13 @@ This hands-on lab includes the following exercises:
 - [Exercise 2: Upload a dataset](#Exercise2)
 - [Exercise 3: Train a classification model](#Exercise3)
 - [Exercise 4: Score the model](#Exercise4)
+
+Bonus exercices : 
 - [Exercise 5: Deploy the model as a Web service](#Exercise5)
 - [Exercise 6: Build an Electron client](#Exercise6)
 - [Exercise 7: Test the model](#Exercise7)
 
-Estimated time to complete this lab: **60** minutes.
+Estimated time to fully complete this lab: **60** minutes.
 
 <a name="Exercise1"></a>
 ## Exercise1: Create a Machine Learning experiment
