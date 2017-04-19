@@ -12,15 +12,6 @@ Machine learning, which facilitates predictive analytics using large volumes of 
 
 In this lab, you will use Azure Machine Learning to build, train, and score a model that recognizes hand-written numeric digits. You will use a real OCR data set published for academic research. After deploying the model as a Web service, you will write an [Electron](http://electron.atom.io/) client for it that lets you sketch digits on the screen and then consult Azure Machine Learning to see if it can identify the digits you sketched. You'll learn how to build and train a model, as well as how to write code that leverages the model.
 
-<a name="Objectives"></a>
-### Objectives ###
-
-In this hands-on lab, you will learn how to:
-
-- Build, train, and score a model using the Azure Machine Learning Studio
-- Deploy your model as a Web service so it can be accessed from code or scripts
-- Call an ML Web service from the apps that you write
-
 <a name="Prerequisites"></a>
 ### Prerequisites ###
 
