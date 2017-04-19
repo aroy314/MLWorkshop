@@ -13,7 +13,7 @@ The workshop can be done with a UWP app (requires Visual Studio 2015 Community e
 You need for both a Microsoft Azure subscription. [Sign up for a free trial](http://aka.ms/WATK-FreeTrial)
 
 Browse the instructions online : 
-- [UWP] (http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_UWP.md)
+- [UWP](http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_UWP.md)
 - [Node](http://github.com/aroy314/MLWorkshop/blob/master/MLWorkshop_instructions_Node.md)
 
 or open the corresponding .html files locally after cloning the repo in your browser
