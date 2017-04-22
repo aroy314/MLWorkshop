@@ -22,3 +22,4 @@ or open the corresponding .html files locally after cloning the repo in your bro
 Clone the repo to have the resources locally : 
 `git clone https://github.com/aroy314/MLWorkshop.git`
 
+[Download as ZIP](https://github.com/aroy314/MLWorkshop/archive/master.zip)
